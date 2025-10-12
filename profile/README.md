@@ -1,4 +1,4 @@
-# DFW Software Consulting
+# 💼 DFW Software Consulting
 
 **Modern web apps & software solutions — scalable backends, intuitive frontends, and cloud-powered platforms for businesses of all sizes.**
 
@@ -9,61 +9,58 @@
 
 ---
 
-## What we do
+## 🚀 What We Do
 
-- **Custom web apps** — product dashboards, portals, internal tools  
-- **E-commerce & payments** — storefronts, subscriptions, checkout flows  
-- **APIs & integrations** — REST/GraphQL, webhooks, 3rd-party services  
-- **Video & file delivery** — secure downloads, streaming, presigned links  
-- **AI-assisted workflows** — practical automation & data extraction  
-- **Cloud infrastructure** — deployment, monitoring, cost-aware scaling
+- **Custom Web Apps** — product dashboards, portals, internal tools  
+- **E-Commerce & Payments** — storefronts, subscriptions, checkout flows  
+- **APIs & Integrations** — REST/GraphQL, webhooks, 3rd-party services  
+- **Video & File Delivery** — secure downloads, streaming, presigned links  
+- **AI-Assisted Workflows** — practical automation & data extraction  
+- **Cloud Infrastructure** — deployment, monitoring, cost-aware scaling  
+
+> **Clear scope, transparent pricing, and code you own.**
 
 ---
 
-## How we work
+## 🧱 How We Work
 
-1. **Discover** — short call, goals, constraints, success metrics  
+1. **Discover** — short call to define goals, constraints, and success metrics  
 2. **Design** — wireframes, data model, tech plan, milestones  
 3. **Build** — weekly sprints, preview links, async updates  
-4. **Launch** — harden, document, train, ship  
-5. **Grow** — analytics, A/B tests, iteration
-
-Clear scope, transparent pricing, and code you own.
+4. **Launch** — harden, document, train, deploy  
+5. **Grow** — analytics, testing, iteration  
 
 ---
 
-## Tech we like
+## ⚙️ Tech We Like
 
 **Frontend:** React, Next.js, Vite, Tailwind  
-**Backend:** Node (Express/Nest), Python (FastAPI), .NET Minimal APIs  
+**Backend:** Node (Fastify/Nest), Python (FastAPI), .NET Minimal APIs  
 **Data:** Postgres, Redis, Prisma/Drizzle/SQLAlchemy  
-**Cloud/DevOps:** Cloudflare (Workers, R2, D1/KV), AWS, Render, Vercel, Netlify  
-**Video/File Delivery:** Cloudflare Stream, Bunny, presigned S3/R2
+**Cloud/Infra:** Cloudflare (Workers, R2, D1/KV), AWS, Render, Vercel, Netlify  
+**Media:** Cloudflare Stream, Bunny.net, presigned S3/R2 URLs  
 
-> We pick tools to match your team and budget—pragmatic over trendy.
-
----
-
-## Selected work (snapshots)
-
-- **Training & Downloads Platform** — gated content, presigned URLs, Payhip integration  
-- **Shop Portal** — estimate tracking, photo uploads, PDF generation  
-- **SMB E-commerce** — headless storefront with real-time inventory
-
-*(Client names & demos available on request.)*
+> We pick tools to match your team and budget — pragmatic over trendy.
 
 ---
 
-## Open source & starters
+## 💰 Hosting & Maintenance Plans
 
-We publish small utilities and starters when we can. Check our pinned repos for:
-- React + Tailwind site starter (Vite)
-- Workers + R2 download API example
-- FastAPI presigned-URL boilerplate
+| Plan | Monthly | Includes | Ideal For |
+|------|----------|-----------|-----------|
+| **Starter Hosting** | **$10 / mo** (or $50 / yr) | Static landing page hosting, SSL, CDN, domain setup | Portfolios, promo pages |
+| **Basic Hosting** | **$25 / mo** | Hosting + uptime monitoring, minor edits, payment setup | Small business sites |
+| **Standard Hosting** | **$75 / mo** | Maintenance, backups, domain management | Multi-page business sites |
+| **Pro Hosting** | **$100 / mo** | Database & backend hosting, monitoring | Full-stack apps |
+| **Enterprise Hosting** | **$200+ / mo** | Dedicated infrastructure, analytics, SLA uptime | Production-critical systems |
+| **Private Network Hosting** | **$20 / mo** | Local hosting on DFWSC-managed servers (DFW area only) | Brick-and-mortar businesses |
+
+> All hosting plans are non-taxable professional services under Texas law and include DFWSC-managed uptime, SSL, and maintenance.  
+> Backend/database work and feature additions are billed hourly ($100–150/hr).
 
 ---
 
-## Start a project
+## 📬 Start a Project
 
 - 📧 **Email:** [dfwsoftwareconsulting@gmail.com](mailto:dfwsoftwareconsulting@gmail.com)  
 - 🌐 **Website:** [dfwsc.netlify.app](https://dfwsc.netlify.app/)  
@@ -73,12 +70,13 @@ Tell us your goal, timeline, and “must-haves.” We’ll propose a lean plan y
 
 ---
 
-### Team values
+## 🧭 Team Values
 
-- **Clarity first.** Plain language, visible progress.  
-- **Ownership.** We ship, document, and hand over cleanly.  
-- **Sustainability.** Reasonable costs; right-sized tech.
+- **Clarity First** — plain language, visible progress  
+- **Ownership** — we ship, document then host or hand over cleanly  
+- **Sustainability** — reasonable costs; right-sized tech  
 
 ---
 
-*© DFW Software Consulting*
+*© 2025 DFW Software Consulting*  
+*Managed Custom Development & Hosting — Dallas-Fort Worth, TX*  
