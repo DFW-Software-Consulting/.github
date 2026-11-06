@@ -30,16 +30,6 @@ Your business. Your code.
 
 Current plans and pricing are on the [pricing page](https://www.dfwsc.com/pricing).
 
-## What we build with
-
-- **Languages and frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS
-- **Backend:** Node.js, Fastify
-- **Data:** PostgreSQL, Prisma, Drizzle
-- **Payments and commerce:** Stripe, Shopify
-- **Deploy and run:** Docker, self-hosted deployments with Coolify
-
-We pick tools to fit your needs and budget, not the other way around.
-
 ## Recent work
 
 - Building and maintaining a property-management platform for a New York furnished-rental operator: billing and ledgers, reporting, and maintenance intake.
